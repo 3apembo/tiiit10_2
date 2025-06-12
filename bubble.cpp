@@ -6,7 +6,7 @@ int main() {
     
     cout << "Original: ";
     for (int i = 0; i < n; i++) {
-        cout << arr[i << " ";
+        cout << arr[i] << " ";
     }
     cout << endl;
     
@@ -20,7 +20,7 @@ int main() {
         }
     }
     
-    cout < "Output: ";
+    cout << "Output: ";
     for (int i = 0; i < n; i++) {
         cout << arr[i] << " ";
     }
