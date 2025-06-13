@@ -1,5 +1,5 @@
 #include <iostream>
-
+using namespace std;
 int main() {
     int arr[] = {64, 34, 34, 25, 61, 12, 22, 11, 90, 42, 99};
     int n = sizeof(arr)/sizeof(arr[0]);
